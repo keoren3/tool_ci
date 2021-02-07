@@ -21,7 +21,7 @@ git clone https://github.com/keoren3/tool_ci.git
 
 # apply the deployment:
 kubectl apply -f deployment.yaml
-# If you're using Minikube as your Kubernetes cluster, don't forget to add:
+# If you're using Minikube as your Kubernetes cluster, don't forget to run the command:
 # minikube tunnel
 
 # Enter the address:
